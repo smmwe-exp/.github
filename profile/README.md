@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hiya! 🌐🎮
 
 
-**Here are some ideas to get you started:**
+**We're SMM:WE Exp!**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🤪 We make ports, demakes, decompilations and everything you can imagine for fun!
+
+🫂 Wanna join or have something to contribute? DM me: @imhexp on Discord
+
+👩‍💻 We're specialized on GML, JS, HTML, CSS...
+
+🇪🇸 Our lead dev is from Spain. Did you know?
+
+Have a great time here!
